@@ -1,0 +1,2 @@
+# This file ensures the public directory is tracked by git
+# The cq binary will be placed here during deployment
